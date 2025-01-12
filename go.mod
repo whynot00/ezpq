@@ -1,4 +1,4 @@
-module ezpq
+module github.com/whynot00/ezpq
 
 go 1.23.3
 
